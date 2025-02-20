@@ -1,0 +1,18 @@
+{
+  "tabWidth": 2,
+  "bracketSpacing": false,
+  "singleQuote": true,
+  "arrowParens": "always",
+  "semi": false,
+  "jsxBracketSameLine": false,
+  "trailingComma": "all",
+  "printWidth": 180,
+  "overrides": [
+    {
+      "files": "src/hooks/use-error-handler.ts",
+      "options": {
+        "printWidth": 1000
+      }
+    }
+  ]
+}
