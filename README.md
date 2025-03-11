@@ -21,7 +21,8 @@
 - Prisma
 - TypeScript
 
-[check in package.json](package.json)
+[check in api package.json](api/package.json)
+[check in mobile package.json](mobile/package.json)
 
 ## 🔩 Installation
 
