@@ -10,9 +10,9 @@
 <p align="center">Online marketplace.</p>
 
 <p align="center">
-  <img src="docs/assets/illustration1.png" width="45%"  alt="illustration" >
-  <img src="docs/assets/illustration2.png" width="45%"  alt="illustration" >
-  <img src="docs/assets/illustration3.png" width="45%"  alt="illustration" >
+  <img src="docs/assets/illustration1.jpg" width="30%"  alt="illustration" >
+  <img src="docs/assets/illustration2.jpg" width="30%"  alt="illustration" >
+  <img src="docs/assets/illustration3.jpg" width="30%"  alt="illustration" >
 </p>
 
 ## 📦 Tech Stack
